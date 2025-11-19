@@ -1,1 +1,2 @@
-Hello I am only just learning how to use github... I'm the most fraudulent cs major to ever exist
+1. Hello I am only just learning how to use github... I'm the most fraudulent cs major to ever exist
+2. *This edit is to test out a commit*
